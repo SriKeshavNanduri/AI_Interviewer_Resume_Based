@@ -1,0 +1,1 @@
+Word Embeddings into azure AI search 

@@ -1,0 +1,11 @@
+azure-storage-blob
+azure-identity
+pypdf
+python-dotenv
+pypdf 
+tiktoken
+langchain
+langchain-text-splitters
+langchain-openai
+langchain-community
+azure-search-documents
